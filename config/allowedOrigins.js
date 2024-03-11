@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  'https://technotes.onrender.com',
+  'https://technotes-spzd.onrender.com',
   // 'http://localhost:3000',
   // 'https://www.google.com',
   // 'https://www.dandrepairshop.com',
